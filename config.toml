@@ -110,7 +110,7 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "ARCHIVE"
   href =  "/top/archive/"
   [[params.addtional_menus]]
-  title =  "O NAS"
+  title =  "ABOUT"
   href =  "/top/about/"
 
 [outputFormats.Algolia]
