@@ -104,10 +104,10 @@ home = ["HTML", "RSS", "Algolia"]
   href = "https://unsplash.com"
   
   [[params.addtional_menus]]
-  title =  "BOOKS"
+  title =  "oferta"
   href =  "/top/books/"
   [[params.addtional_menus]]
-  title =  "ARCHIVE"
+  title =  "studio"
   href =  "/top/archive/"
   [[params.addtional_menus]]
   title =  "omnie"
