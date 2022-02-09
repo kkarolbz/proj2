@@ -1,6 +1,6 @@
 ---
 title: "Posts Archive"
-layout: archive
+layout: archive2
 type: post
 description: Archive of historical posts.
 ---
