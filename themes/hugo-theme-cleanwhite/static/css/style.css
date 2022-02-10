@@ -472,10 +472,10 @@ a img {
   top: -99em;
 }
 .site-title a {
-  color: white;
+  color: green;
 }
 .site-title a:link, .site-title a:visited, .site-title a:hover, .site-title a:active, .site-title a:focus {
-  color: white;
+  color: green;
 }
 .site-title img {
   max-width: 5em;
