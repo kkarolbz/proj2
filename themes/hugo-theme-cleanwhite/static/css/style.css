@@ -491,10 +491,10 @@ a img {
   z-index: 29;
   border: none;
   background: none;
-  font-size: 1em;
+  font-size: 20em;
   margin: 0;
   padding: 0 0 0 1.5em;
-  color: white;
+  color: green;
   opacity: 0.6;
   -webkit-transition: opacity 0.2s ease;
           transition: opacity 0.2s ease;
