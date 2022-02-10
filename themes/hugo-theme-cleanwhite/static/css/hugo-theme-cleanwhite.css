@@ -247,6 +247,7 @@ pre code{
     color:#fff;
     height:56px;
     line-height:25px
+        font-size:50px;
 }
 .navbar-custom .navbar-brand:hover{
     color:rgba(255,255,255,.8)
@@ -267,7 +268,7 @@ pre code{
         border-bottom:1px solid transparent
     }
     .navbar-custom body{
-        font-size:20px
+        font-size:80px
     }
     .navbar-custom .navbar-brand{
         color:#fff;
