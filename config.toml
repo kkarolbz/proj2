@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "Algolia"]
   SEOTitle = "Zhaohuabing Blog"
   description = ""
   keyword = ", zhaohuabing, Zhaohuabing, Zhaohuabing Blo PaaS, Istio, Kubernetes Microservice"
-  slogan = "Fotografia produktowa"
+  slogan = "Fotografia produktowa | sesje sprzedażowe mieszkań | sesje rodzinne"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "DD :("
