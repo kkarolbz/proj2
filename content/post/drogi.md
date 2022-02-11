@@ -1,5 +1,5 @@
 ﻿---
-title:       "BIELINY POST"
+title:       "Bieliny post"
 subtitle:    "miejscowość"
 description: "tekst i tekst"
 date:        2022-02-09
